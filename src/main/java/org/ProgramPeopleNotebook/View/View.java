@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class View {
-    String input = "";
+    String input = "afdg";
     NoteSeparator noteSeparator;
     NoteHandler noteHandler;
 
